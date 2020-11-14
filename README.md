@@ -1,8 +1,6 @@
 # Topics in Python
 
-Jupyter notebooks about Programming, Statistics and Math
- 
-This repository includes Jupyter notebooks dealing with themes ranging from Statistics to Programming.
+This repository includes Jupyter notebooks dealing with themes ranging from Statistics and Mathematics to Programming.
 
 **Resampling** - notes about permutation tests to estimate answers to probability problems and propose alternatives to several statistical tests.
 
