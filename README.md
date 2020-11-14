@@ -1,4 +1,5 @@
-# topicsInPython
+# Topics In Python
+
 Jupyter notebooks about Programming, Statistics and Math
  
 This repository includes Jupyter notebooks dealing with themes ranging from Statistics to Programming.
