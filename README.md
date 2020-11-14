@@ -1,4 +1,4 @@
-# Topics In Python
+# Topics in Python
 
 Jupyter notebooks about Programming, Statistics and Math
  
