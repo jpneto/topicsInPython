@@ -8,3 +8,11 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 
 [<img src="imgs/run_on_colab_small.png">](https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Resampling.ipynb) 
 
+**Optimization** - brief notes about convex optimization and how to apply it with Python.
+
+[<img src="imgs/run_on_colab_small.png">](https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Optimization.ipynb) 
+
+**Array Programming** - introduction of what is array programming and how to use `numpy`.
+
+[<img src="imgs/run_on_colab_small.png">](https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/ArrayProgramming.ipynb) 
+
