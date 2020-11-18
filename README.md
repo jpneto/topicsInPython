@@ -18,10 +18,14 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 
 [<img src="imgs/run_on_colab_small.png">](https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/StreetFightMath.ipynb) 
 
-**Concatenative Programming** - introduction about tacit programming and concatenative programming using Python high-order functions.
+**Concatenative Programming** - introduction to tacit programming and concatenative programming using Python high-order functions.
 
 [<img src="imgs/run_on_colab_small.png">](https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/ConcatenativeProgramming.ipynb) 
 
 **Differentiation** - computing derivatives via symbolic differentiation, numerical differentiation and automatic differentiation.
 
 [<img src="imgs/run_on_colab_small.png">](https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Differentiation.ipynb) 
+
+**Probabilistic Programming** - introduction to probabilistic programming
+
+[<img src="imgs/run_on_colab_small.png">](https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/ProbabilisticProgramming.ipynb) 
