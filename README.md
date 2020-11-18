@@ -14,3 +14,6 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 
 [<img src="imgs/run_on_colab_small.png">](https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/ArrayProgramming.ipynb) 
 
+**Street Fight Mathematics** - some mathy ways to guesstimate answers of hard problems. The notebook includes Python solutions for the problems presented by Ryan O'Donnell in his [lecture](https://www.youtube.com/watch?v=qP4XEZ54eSc) on this subject.
+
+[<img src="imgs/run_on_colab_small.png">](https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/StreetFightMath.ipynb) 
