@@ -30,7 +30,7 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 
 [<img src="imgs/run_on_colab_small.png">](https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/ProbabilisticProgramming.ipynb) 
 
-**Domain-Specific Languages** - using Lark to create a small DSL
+**Domain-Specific Languages** - using `Lark` to create a small DSL
 
 [<img src="imgs/run_on_colab_small.png">](https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Domain-SpecificLanguages.ipynb) 
 
