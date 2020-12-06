@@ -47,7 +47,12 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
 
-**Constraint Programming** - a brief introduction to constraint programming using Microsoft's Z3 and `pycosat`
+**Constraint Programming** - introduction to constraint programming using Microsoft's Z3 and `pycosat`
 <a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/ConstraintProgramming.ipynb">
+<img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
+</a>
+
+**Logic Programming** - introduction to logic programming with Prolog via Python's module `pyswip`
+<a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/LogicProgramming.ipynb">
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
