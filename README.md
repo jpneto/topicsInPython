@@ -32,6 +32,11 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
 
+**Functors & Monads** - show implementations and use cases of Functors, Applicative Functors and Monads as Python interfaces.
+<a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Functors_and_Monads.ipynb">
+<img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
+</a>
+
 **Differentiation** - computing derivatives via symbolic differentiation, numerical differentiation and automatic differentiation.
 <a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Differentiation.ipynb">
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
