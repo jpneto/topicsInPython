@@ -12,7 +12,7 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
 
-**Array Programming** - introduction of what is array programming and how to use `numpy`.
+**Array Programming** - what is array programming and how to use `numpy`.
 <a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/ArrayProgramming.ipynb">
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
@@ -22,18 +22,23 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
 
-**Concatenative Programming** - introduction to tacit programming and concatenative programming using Python high-order functions.
+**Concatenative Programming** - tacit programming and concatenative programming using Python high-order functions.
 <a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/ConcatenativeProgramming.ipynb">
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
 
-**Corecursion** - introduction to codata and corecursion, and how to use it in Python.
+**Corecursion** - codata and corecursion, and how to use it in Python.
 <a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Corecursion.ipynb">
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
 
-**Functors & Monads** - show implementations and use cases of Functors, Applicative Functors and Monads as Python interfaces.
+**Functors & Monads** - implementation and use cases of Functors, Applicative Functors and Monads as Python interfaces.
 <a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Functors_and_Monads.ipynb">
+<img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
+</a>
+
+**Continuations** - applications of continuation-passing style programming, including tail-call optimization and use of combinators to perform backtracking.
+<a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Continuations.ipynb">
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
 
