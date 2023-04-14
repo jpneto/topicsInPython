@@ -42,6 +42,11 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
 
+**Finite State Machines** - Implementing and testing Finite State Machines.
+<a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Finite State Machines.ipynb">
+<img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
+</a>
+
 **Continuations** - applications of continuation-passing style programming, including tail-call optimization and use of combinators to perform backtracking.
 <a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Continuations.ipynb">
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
