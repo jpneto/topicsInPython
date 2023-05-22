@@ -33,7 +33,7 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 </a>
 
 **Monoids** - Monoids as Python interfaces, implementation and use cases.
-<a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Functors_and_Monads.ipynb">
+<a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Monoids.ipynb">
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
 
