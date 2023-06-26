@@ -87,3 +87,8 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 <a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/LogicProgramming.ipynb">
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
+
+**Sampling Statistics** - A sampling approach to random variables and distributions to teach basic statistical methods without Calculus.
+<a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/Sampling Statistics.ipynb">
+<img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
+</a>
