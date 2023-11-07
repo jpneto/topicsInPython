@@ -71,6 +71,12 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
 
+**Bayesianism** - discussions about the philosophy and practice of Bayesian statistics
+<a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/ProbabilisticProgramming.ipynb">
+<img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
+</a>
+
+
 **Probabilistic Programming** - introduction to probabilistic programming
 <a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/ProbabilisticProgramming.ipynb">
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
