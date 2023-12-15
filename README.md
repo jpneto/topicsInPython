@@ -104,7 +104,7 @@ This repository includes Jupyter notebooks dealing with themes ranging from Stat
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
 
-**Modular Arithmetic** - elements of Modular Arithmetic, some examples and implementations of standard functions.
+**Modular Arithmetic** - elements of modular arithmetic, some examples and implementations of standard functions.
 <a href="https://colab.research.google.com/github/jpneto/topicsInPython/blob/main/notebooks/ModularArithmetic.ipynb">
 <img border="0" alt="Run on Colab" src="imgs/colab_icon.png" width="56" height="24">
 </a>
